@@ -1,0 +1,5 @@
+{
+  "name": "AI Image Stylizer",
+  "description": "An intelligent image editor that uses AI to optimize your editing prompts. Upload an image, describe your desired changes, and let the AI generate stunning, stylized variants for you to choose from and refine.",
+  "requestFramePermissions": []
+}
